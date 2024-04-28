@@ -16,10 +16,15 @@ Se estima que el 3,8% de la población experimenta depresión, incluido el 5% de
 Aunque hay tratamientos conocidos y eficaces contra los trastornos mentales, más del 75% de las personas afectadas en los países de ingreso bajo y mediano no reciben tratamiento alguno (3). Entre los obstáculos a una atención eficaz cabe destacar la falta de inversión en atención de salud mental y de proveedores de atención de salud capacitados, así como la estigmatización asociada a los trastornos mentales.
 
 ## Tablas
-|       Sintomas                 |        Tipologías         |      Prevención         |
-|--------------------------------|---------------------------|-------------------------|
-|Difultad para concentrarse
-
+|               Sintomas                     |        Tipologías         |      Prevención         |
+|--------------------------------------------|---------------------------|-------------------------|
+|Difultad para concentrarse                  |
+|Sentimiento de culpa o baja autoestima      |
+|Pensamientos fatalistas, muerte, suicidio   |
+|Sobrepensar el futuro                       |
+|Alteraciones del sueño                      |
+|Cambios de apetito o baja de peso           |
+|Cansancio o falta de energía                |
 
 
 
